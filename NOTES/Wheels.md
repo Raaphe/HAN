@@ -4,7 +4,7 @@
 
 I'm like brand new to the world of wheels and just today I was delving in known brands. I think if you're also new a great way to start is to read [this reddit post](https://www.reddit.com/r/ForteGT/comments/1fbcy3n/guide_to_acquiring_new_fancy_aftermarket_wheels/) which does an INSANE job at explaining wheels. Also, there's this picture below I found giving a rough idea of existing brands I found off of a bladedangel video : 
 
-![wheel guide](a1995f10c38376746b0bbb0e0a730bae8154ecf430f72cc52742db9d229921d5_1.jpg)
+![wheel guide](/IMAGES/a1995f10c38376746b0bbb0e0a730bae8154ecf430f72cc52742db9d229921d5_1.jpg)
 
 As for what wheel's fit on the VT 2015 (gen 1s basically) This is the specs :
 
