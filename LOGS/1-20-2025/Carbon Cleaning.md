@@ -1,0 +1,4 @@
+
+---
+
+Went to Strasse Autowerks to get the carbon build-up on the intake valves and ports cleaned. The guy said it had never been done on the car before from the looks of it. After driving it for 5 days (got it done on the 20th it's the 25th rn), I can say that on the high ends, I get WAYY better torque. Other than that there isn't much more different. I can feel the engine breathe better overall and I get boost a lot more aggressively like my BOV loud as fudge now. Sinon the service from Strasse was super cool and the guy was really chill even checked up on my car after I got scared of a rattling/ticking noise which I talked about [[Spark Plugs|here]].

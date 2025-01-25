@@ -14,6 +14,7 @@
 
 ## One Time Mods
 ---
+- [ ] [Intake filter Piping](https://sharkracing.com/2012-2017-veloster-turbo-oem-style-intake-pipe-kit/?srsltid=AfmBOooTqR-nwBIzJ-LrpaHCt7U1GV2v1h7V8Ifoo0THAOdXPoUbSNol) 
 - [ ] [New rims](https://www.fitmentindustries.com/wheel-offset-gallery/321591/2015-hyundai-veloster-avid1-av6-oem-stock-falken-atr-sport)
 - [ ] OCC
 - [ ] [Braided PTFE Fuel lines](https://kdmtuners.com/product/ptfe-fuel-line/)
