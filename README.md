@@ -11,6 +11,11 @@ This is a repository for my car! If you are someone that has found this because 
 ![school](IMAGES/IMG_0850.jpeg)
 *‎Thursday, ‎November ‎14, ‎2024, ‏‎9:17:07 PM : Outside school with my friend's (slow) civic*
 
+
+![[IMAGES/IMG_1421.jpg]]
+*Saturday, March 8th, 10:54PM, on the 17 going back to Montreal, no noise, just road* 🌌
+
+
 The folders in this repository are :
 
 ```
