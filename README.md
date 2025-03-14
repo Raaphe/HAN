@@ -21,8 +21,7 @@ The folders in this repository are :
 ```
 \Images
 \Logs
-	\Performance
-	\Maintenance
+	\*
 \Notes
 Build Road Trip
 Car Parts

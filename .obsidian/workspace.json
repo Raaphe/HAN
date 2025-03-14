@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "LOGS/3-10-2025/3-10-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "3-10-2025"
             }
           }
         ]
@@ -168,8 +168,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9630af034a2d4fb9",
+  "active": "8302c5f24aa6cea1",
   "lastOpenFiles": [
+    "IMAGES/FirstPageReceipt_20250310.png",
+    "IMAGES/2ndPage_Receipt_20250310.png",
+    "Pasted image 20250314102736.png",
+    "NOTES/Hyundai Underbody Corrosion Program.md",
     "LOGS/3-10-2025/3-10-2025.md",
     "README.md",
     "LOGS/3-10-2025",
