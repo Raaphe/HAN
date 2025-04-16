@@ -64,13 +64,12 @@ Then in the moderately far future I'm looking at doing body work and suspension 
 #### Far Future
 ---
 - [ ] [Lightweight pulley kit](https://www.nonstoptuning.co/store/p60/2011-2017HyundaiVelosterPulleyKitNST31600K.html)
-- [ ] [Radiator Upgrade](https://meganracing.com/mr-rt-hyv11t)
 - [ ] OCC
 - [x] [New rims](https://www.fitmentindustries.com/wheel-offset-gallery/321591/2015-hyundai-veloster-avid1-av6-oem-stock-falken-atr-sport)
 - [ ] [Braided PTFE Fuel lines](https://kdmtuners.com/product/ptfe-fuel-line/)
 - [ ] Mesh grill + Bumper
 - [ ] After market specd headlights
-- [ ] [Radiator](https://meganracing.com/mr-rt-hyv11t)
+- [x] [Radiator](https://meganracing.com/mr-rt-hyv11t)
 - [ ] [Lightweight pulley kit](https://www.nonstoptuning.co/store/p60/2011-2017HyundaiVelosterPulleyKitNST31600K.html)
 - [ ] [845 MS Down pipe](https://www.845motorsports.com/shop/hyundai/velosters/veloster-turbo/845-motorsports-downpipe/)
 - [ ] [Catback Exhaust](https://ca.mbrp.com/collections/s47034cf-mbrp-cat-back-exhaust-for-2015-hyundai-veloster-turbo-1-6l-1)
