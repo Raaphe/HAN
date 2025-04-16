@@ -23,9 +23,9 @@ Okay so, I've been driving right and hit a MASSIVE pothole on the highway fml. B
 
 #### NEAR FUTURE
 ---
-1. [ ] Jack and jackstand
-2. [ ] Dealership service (oil and recall)
-3. [ ] Strasse Autowerks carbon clean + new sparkplugs
+1. [x] Jack and jackstand
+2. [x] Dealership service (oil and recall)
+3. [x] Strasse Autowerks carbon clean + new sparkplugs
 4. [ ] Transmission Oil + new bushings + STS
 
 == summer ==
@@ -35,13 +35,38 @@ Okay so, I've been driving right and hit a MASSIVE pothole on the highway fml. B
 7.  [ ] Fix Bumper sag + mesh grill
 8.  [ ] MBRP Catback Exhaust + catted DP (no tune too poor)
 
+#### 3/23/2025
+OK. So considering my financial situation and the way I've started prioritizing mods I think my summer plans have considerably changed. I've been looking more and more into tools more than parts. I've been liking the idea of doing preventative maintenance and aesthetic mods more than performance fun parts as of lately. I think if I ever will end up tacking performance mods on the car, it'll be after I'm comfortable doing so, I want a tasteful and daily-able build before I make it any faster. I bought the Targas about 3 weeks back now and I put up my tires on marketplace this morning. I could still use them but they'd stretch. I though they we're 17 inches and that they we're old random all season tires but the tires I got with the car are surprisingly good. I was shocked when I saw the writing on the rubber yesterday saying "Khumo Ecsta PS71" and the number "3822" (might be wrong on the week). Only issue is I was aiming to get 235/40/18 and not 215/40/18 as on 18x8s, they'd stretch. So while they're in good condition, might as well throw em up on marketplace to soften the blow when I get some pirellis P zeros. As of right now im more concerned on school and gas money more than anything, but when the semester comes to an end I'd be looking at these changes (in order):
 
+1. Milwaukee m18 impact wrench (mid torque)
+2. olsatools CR-MO 1/2 inch stubby impact sockets
+3. Tires + balance 
+4. Short throw shifter + transmission fluid fllush + nice knob
+
+Then, mid summer I'd like to redo the whole front end. What I mean by this is, I'd take apart the entire front end of the car and make a bunch of aesthetic, preventative and performance related changes. I would first address the bumper sag by doing the mod in [[Bumper Sag]], Then while I'm at it, Id do the mesh grill to complete the front bumper and also to show off the new Radiator I'd be getting. While changing the radiator, I'd do a coolant flush and while I have access to it, I'd change the water pump (and maybe AC compressor if I see it's old) and serpentine belt. While having access to the pulleys, I'd change out the heavy pulleys to some nice lightweight pulleys. To then really complete the look of the front end, I'd put up my headlights on ebay or marketplace, to afford some specD aftermarket headlights. AFTER ALL OF THIS, I'd start considering FBO mods if I still have time and money, like exhaust, FMIC (depending if I can get away with getting one without a tune) etc etc. Mind you, I don't know if the old owner has beat this car, and I want to experience it as if it were new (or close to it). I think this is a fair and frugal way to treat my first car, the first summer I've had my hands on it. Plus, as said before, it'll give me confidence to do more stuff to it while not being completely boring (no insane power gain), because at least it'll look way better.
+
+#### 4/16/2025
+OK SO, I got my hands on a little bit of money after having sold my tires and bought some tools and upgrades that I will detail specifically in [[4-16-2025 |The logs]]. Now that that is all bought, I have to pay off school, a toll bridge fee, my mom, taxes and my credit card so I'll stop splurging for a little while. I have a Lugia V #186 full-art that is worth a pretty penny that I want to get graded by CGC and sold on ebay ad im thinking I could get atleast 500 from that and another 1500 from the bourse (hopefully) which would again soften the financial hit when I get some tires. I'm looking at getting a few more things in the near future for maintenance and potential performance that being ;
+
+parts:
+- Serpentine belt
+- Water pump
+- MAYBE lightweight pulleys (depending on budget)
+- Mesh Grill
+- New coolant
+
+tools:
+- Spill proof funnel
+- Set of chrome vanadium sockets with ratchet (marketplace find picking up tomorrow morning)
+- Impact socket set
+
+Then in the moderately far future I'm looking at doing body work and suspension work after I get my tires taken care of. I now am getting a good set of tools so suspension work (which was impossible with what I had before) is now something to consider especially with my bigass wrench I have now. I'd love to do what I wrote down in [[Suspension Rebuild]] paired with a cool alignment to make driving feel better and most importantly safer. Pretty sure my front shocks are gone and that my tie rods are gone too.
 #### Far Future
 ---
 - [ ] [Lightweight pulley kit](https://www.nonstoptuning.co/store/p60/2011-2017HyundaiVelosterPulleyKitNST31600K.html)
 - [ ] [Radiator Upgrade](https://meganracing.com/mr-rt-hyv11t)
 - [ ] OCC
-- [ ] [New rims](https://www.fitmentindustries.com/wheel-offset-gallery/321591/2015-hyundai-veloster-avid1-av6-oem-stock-falken-atr-sport)
+- [x] [New rims](https://www.fitmentindustries.com/wheel-offset-gallery/321591/2015-hyundai-veloster-avid1-av6-oem-stock-falken-atr-sport)
 - [ ] [Braided PTFE Fuel lines](https://kdmtuners.com/product/ptfe-fuel-line/)
 - [ ] Mesh grill + Bumper
 - [ ] After market specd headlights
@@ -57,5 +82,4 @@ Okay so, I've been driving right and hit a MASSIVE pothole on the highway fml. B
 - [ ] [Cable + Base Bushings](https://www.addw1.com/products/add-w1-hyundai-veloster-turbo-2011-2018-accent-2012-shifter-cable-base-bushings?srsltid=AfmBOoqvghjMz4aa6A1L5Oi3behdIi9Goc8gLXfrPRwxWxfTOrg_Dw9j&utm_source=chatgpt.com)
 - [ ] Bigger throttle body
 - [ ] after market head unit
-- [ ] New break system
 - [ ] carbon steering wheel 

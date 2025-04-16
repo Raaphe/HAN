@@ -11,6 +11,7 @@
 - [x] Jack and jackstands
 - [ ] [Tune](https://n75motorsports.ca/products/ek1-lite-obd-flash-and-logging-device)
 - [ ] Detail 
+- [ ] [Wing](https://www.aliexpress.com/item/1005005636990740.html?src=google&pdp_npi=4@dis!CAD!165.51!100.39!!!!!@!12000033838638501!ppc!!!)
 
 ## One Time Mods
 ---
