@@ -11,15 +11,14 @@
             "id": "02f988b2ad7add0b",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "IMG_1421.heic",
-                "bFile": "IMG_1421.heic",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "NOTES/Oil Change Setup for 2015 VT.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: IMG_1421.heic"
+              "icon": "lucide-file",
+              "title": "Oil Change Setup for 2015 VT"
             }
           }
         ]
@@ -182,6 +181,12 @@
   },
   "active": "02f988b2ad7add0b",
   "lastOpenFiles": [
+    "NOTES/2013 Mazda 3 GX Oil Change Cost and Parts.md",
+    "NOTES/Spark Plugs.md",
+    "NOTES/Oil Change Setup for 2015 VT.md",
+    "NOTES/69510-2V000.md",
+    "NOTES/Heater Blower Motor.md",
+    "NOTES/Hyundai Underbody Corrosion Program.md",
     "conflict-files-obsidian-git.md",
     "BUILD ROAD TRIP.md",
     "PARTS CHECK LIST.md",
@@ -192,9 +197,6 @@
     "BUILD ROAD TRIP/1-16-2025.md",
     "BUILD ROAD TRIP",
     "IMAGES/IMG_1421.jpg",
-    "NOTES/2013 Mazda 3 GX Oil Change Cost and Parts.md",
-    "NOTES/Oil Change Setup for 2015 VT.md",
-    "NOTES/69510-2V000.md",
     "Pasted.md",
     "IMAGES/UNG_1231.png",
     "IMAGES/WIN_20250416_17_16_59_Pro.jpg",
@@ -214,9 +216,6 @@
     "LOGS/4-20-2025",
     "NOTES/Wheels.md",
     "NOTES/Suspension Rebuild.md",
-    "NOTES/Spark Plugs.md",
-    "NOTES/Hyundai Underbody Corrosion Program.md",
-    "NOTES/Heater Blower Motor.md",
     "NOTES/Bumper Sag.md",
     "LOGS/4-16-2025",
     "CAR PARTS.md",

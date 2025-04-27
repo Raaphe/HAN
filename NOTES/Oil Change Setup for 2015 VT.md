@@ -18,10 +18,16 @@ On the Veloster's, the oil drain plug size is m14\*1.5 and so what I'd wanna do 
 ---
 
 - [**Crush Washer**](https://www.amazon.ca/Rustark-320-Pcs-Sealing-Washers-Assortment/dp/B07QK5LT99/ref=sr_1_9?crid=2UR9UMHHTM6P2&dib=eyJ2IjoiMSJ9.OFnXi9sSxu7n8tbll-M0SaunTqj9L5B13QRfk5VYdwczyw1HuRwmXj7wi5ID4bCV9kf5sH0Geyp44FqCbXNuVwjjFNmyC0gSRdfxOqIHFilJbk9Kv14mcR6X6OX0nc_C70WJeFDym4gCaQ2akqq47cWG-Dnn0ZoyoNdsYy6lZHuOcDMjrnm80l87M1ebnEWIwZrh5qN1iioh2J2ODMUXryIkoHUnoB15WfSUpUuMByEC-Ew_afnbGQ-KPyv20CwG_9C2D4og44cUakUzHzs5K-V4TJSJkeJWePDPRxc0MuI.EE-g_0pULWKCf7joAnY8-EWTldHSfAlLhiq3QG6a8oA&dib_tag=se&keywords=crush%2Bwasher&qid=1745767125&sprefix=crush%2Bwasher%2Caps%2C98&sr=8-9&th=1)
-- [**K&N Filter**](https://www.autozone.com/filters-and-pcv/oil-filter/p/k-n-high-performance-oil-filter-so-1004/1418958_0_0)
+- [**K&N Filter**](https://www.autozone.com/filters-and-pcv/oil-filter/p/k-n-high-performance-oil-filter-so-1004/1418958_0_0) OR [**A-Premium Filters**](https://www.amazon.ca/Premium-Protection-Compatible-Chevrolet-Mitsubishi/dp/B0CTPXSKTM/ref=sr_1_8?af=eyJ2ZWhpY2xlTmFtZSI6IjIwMTUgSHl1bmRhaSBWZWxvc3RlciIsInZlaGljbGUiOiIyMDE1LTMtMjE1MjQtNjctLTUtNi01LTE4MTY5LTM0MjItMS0xLS0tIn0%3D&content-id=amzn1.sym.70c3a562-ab88-4e0f-be03-2abb14affc79%3Aamzn1.sym.70c3a562-ab88-4e0f-be03-2abb14affc79&crid=3OSP74KGW389D&dib=eyJ2IjoiMSJ9.RrwM7jD4pq7gMpExyQV4OR9LD4N9C65R3g1cgyxL0iTttIFYZSqBfKSrUZ6uV47-RhBQdT1dAUgFnzzBbjdUOeCQKnXGw-X8TNdSLbwtiku-VOkMLlJBjcsr7RYsHTLnhWo4lo2PMEHxQxxFVJOga3LTAjhYI1PhA-Y4SV2W8G0RUVg5S3VTwYONdETsbK83nAu6w3gbTnXVg1r6eyfPKeEYyqOzkd5zZznCHV012Xu15Aep1pHJWZjBeDVQLCdKbrHRPcP3X-iM-dG4hgOLmHXaubEiYlfeteGY9-19Oj8.9wRut4PE038FAFQXESJtxeXqGSwVanX3T4IdsH-aIfw&dib_tag=se&keywords=oil+filter&pd_rd_r=27a5c64c-a941-461c-976a-8107d58b5ad3&pd_rd_w=xBSX5&pd_rd_wg=tcysv&qid=1745769535&s=automotive&sprefix=oil+filter%2Cautomotive%2C91&sr=1-8&vehicle=2015-3-21524-67--5-6-5-18169-3422-1-1---&vehicleName=2015+Hyundai+Veloster)
 - [**SAE 5W-30**](https://www.canadiantire.ca/en/pdp/pennzoil-platinum-high-mileage-5w30-synthetic-engine-motor-oil-5-l-0289353p.html?rq=SAE+5W-30)
 
 
+
+The factory shop manual calls for the oil-pan drain plug on your 2015 Veloster Turbo to be tightened to:
+
+- **34.3 – 44.1 N·m**
+    
+- (3.5 – 4.5 kgf·m, 25.3 – 32.5 lb·ft) [Hyundai Forums](https://www.hyundai-forums.com/threads/oil-drain-plug-torque-spec.117707/?utm_source=chatgpt.com)[Hyundai For](https://www.hyundai-forums.com/threads/oil-change-plug-tightening.630329/?utm_source=chatgpt.com)
 
 The cost of all of these comes to about : **179\$** + **26\$**  *(tax)* = **205\$**
 
