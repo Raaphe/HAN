@@ -16,7 +16,7 @@ so the numbers here mean :
 - **WIDTH OF TIRE : 7.5**  |  *I think 7 inches and 8.5 inches is the min and max could be wrong*
 - **OFFSET : +35**  |  *35-40 is flush from forum's advice*
 - **LUG NUT COUNT AND PATTERN : 5 114.3mm**  |  *this cannot be different ⚠️ *
-- **BORE SIZE : 67.1mm**  |  *This can be bigger but will need hub centric ring. smaller is impossible :( ⚠️*
+- *BORE SIZE : 67.1mm**  |  *This can be bigger but will need hub centric ring. smaller is impossible :( ⚠️**
 
 The torque spec for the lugs are : **80ft/lbs of torque**
 

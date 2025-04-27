@@ -8,5 +8,5 @@ Once there, the guy (Alex) had told me that the recall was just an inspection of
 Also, Alex had told me that if anything was spotted that is out of whack that isn't covered by the warranty of the recall they'd tell me about it and offer a service to repair (he told me my passenger rear calliper was seized and replaced it even when I told him I couldn't afford it lol).
 
 > [!Notes] More Info
-> A more detailed entry is found in [[3-10-2025 |here]]
+> A more detailed entry is found in [[Niche Targas - Callback Underbody Corrosion|here]]
 
