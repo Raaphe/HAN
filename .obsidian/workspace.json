@@ -11,10 +11,15 @@
             "id": "02f988b2ad7add0b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": "IMG_1421.heic",
+                "bFile": "IMG_1421.heic",
+                "aRef": "HEAD",
+                "bRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: IMG_1421.heic"
             }
           }
         ]
@@ -177,6 +182,8 @@
   },
   "active": "02f988b2ad7add0b",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "BUILD ROAD TRIP.md",
     "PARTS CHECK LIST.md",
     "BUILD ROAD TRIP/4-16-2025.md",
     "BUILD ROAD TRIP/03-23-2025.md",
