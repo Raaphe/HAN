@@ -32,4 +32,3 @@ The factory shop manual calls for the oil-pan drain plug on your 2015 Veloster T
 The cost of all of these comes to about : **179\$** + **26\$**  *(tax)* = **205\$**
 
 When the complete setup is purchased, each oil change cost : **53\$** + **8\$** *(tax)* = **61\$**
-
