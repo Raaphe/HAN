@@ -15,13 +15,13 @@
 
 ## One Time Mods
 ---
-- [ ] [CAI](https://n75motorsports.ca/collections/air-intakes/products/injen-is1342blk-is-series-polished-black-short-ram-air-intake-system?variant=37807746416826) 
-- [ ] [New rims](https://www.fitmentindustries.com/wheel-offset-gallery/321591/2015-hyundai-veloster-avid1-av6-oem-stock-falken-atr-sport)
+- [x] [CAI](https://n75motorsports.ca/collections/air-intakes/products/injen-is1342blk-is-series-polished-black-short-ram-air-intake-system?variant=37807746416826) 
+- [x] [New rims](https://www.fitmentindustries.com/wheel-offset-gallery/321591/2015-hyundai-veloster-avid1-av6-oem-stock-falken-atr-sport)
 - [ ] OCC
 - [ ] [Braided PTFE Fuel lines](https://kdmtuners.com/product/ptfe-fuel-line/)
-- [ ] [Mesh grill](https://www.customcargrills.com/proddetail.asp?prod=Hyun_Velo_T_12) + [[Bumper Sag|Bumper]]
-- [ ] After market specd headlights
-- [ ] [Radiator](https://meganracing.com/mr-rt-hyv11t)
+- [x] [Mesh grill](https://www.customcargrills.com/proddetail.asp?prod=Hyun_Velo_T_12) + [[Bumper Sag|Bumper]]
+- [x] After market specd headlights
+- [x] [Radiator](https://meganracing.com/mr-rt-hyv11t)
 - [ ] [Lightweight pulley kit](https://www.nonstoptuning.co/store/p60/2011-2017HyundaiVelosterPulleyKitNST31600K.html)
 - [ ] [845 MS Down pipe](https://www.845motorsports.com/shop/hyundai/velosters/veloster-turbo/845-motorsports-downpipe/)
 - [ ] [Catback Exhaust](https://ca.mbrp.com/collections/s47034cf-mbrp-cat-back-exhaust-for-2015-hyundai-veloster-turbo-1-6l-1)
@@ -29,9 +29,9 @@
 - [ ] [Meth injection](https://www.proimporttuners.com/parts/2015-hyundai/veloster-aem-water-methanol-injection-kit.html?ctid=3049)
 - [ ] [FMIC](https://www.proimporttuners.com/parts/2015-hyundai/veloster-mishimoto-universal-intercooler.html?ctid=3049) and Piping
 - [ ] [BIG TURBO](https://kdmtuners.com/product/k03-upgraded-turbo/)
-- [ ] [Short shifter](https://meganracing.com/njjhy/hyundai-veloster-11-14-1-6l-gamma-turbo-mpi-gdi-tci-6-speed-short-throw-shifter-ss-6037?utm_source=chatgpt.com) or [Short throw shifter with base bushings](https://cosmoracing.com/en/hyundai-veloster-2015-2017-1-6l-mpi-gdi-turbo-6-speeds-knob-sport-short-shifter-hyundai)
-- [ ] [Cable bushings](https://www.addw1.com/collections/short-shifter-base-shifter-cable/products/add-w1-hyundai-veloster-turbo-2011-2018-accent-2012-shifter-cable-bushings)
-- [ ] [Cable + Base Bushings](https://www.addw1.com/products/add-w1-hyundai-veloster-turbo-2011-2018-accent-2012-shifter-cable-base-bushings?srsltid=AfmBOoqvghjMz4aa6A1L5Oi3behdIi9Goc8gLXfrPRwxWxfTOrg_Dw9j&utm_source=chatgpt.com)
+- [x] [Short shifter](https://meganracing.com/njjhy/hyundai-veloster-11-14-1-6l-gamma-turbo-mpi-gdi-tci-6-speed-short-throw-shifter-ss-6037?utm_source=chatgpt.com) or [Short throw shifter with base bushings](https://cosmoracing.com/en/hyundai-veloster-2015-2017-1-6l-mpi-gdi-turbo-6-speeds-knob-sport-short-shifter-hyundai)
+- [x] [Cable bushings](https://www.addw1.com/collections/short-shifter-base-shifter-cable/products/add-w1-hyundai-veloster-turbo-2011-2018-accent-2012-shifter-cable-bushings)
+- [x] [Cable + Base Bushings](https://www.addw1.com/products/add-w1-hyundai-veloster-turbo-2011-2018-accent-2012-shifter-cable-base-bushings?srsltid=AfmBOoqvghjMz4aa6A1L5Oi3behdIi9Goc8gLXfrPRwxWxfTOrg_Dw9j&utm_source=chatgpt.com)
 - [ ] Bigger throttle body
 - [ ] after market head unit
 - [ ] New break system

@@ -1,0 +1,9 @@
+
+This is probably the part of the car I like the least rn. Still, better than before. First, I installed the All-Fit Automotive quick release brackets for the elastic, They do their job very well but, almost too well. Like sometimes the bumper slips OVER the fender the elastic pulls so much. All in all though I think it does give it a cool look and removes most of the need for side fender-bumper brackets.
+
+Then the grill, The grill install had me remove ALOT of plastic (which the bumper is made entirely of). This made it so the the bumper is lighter, but also, its less stable and less sturdy. This is my only gripe at the moment. Like the plastic section that connects the bumper to the car is gooed and ziptied together since all of the screw fittings that usually held everything on quite literally just fell apart the first time I took the bumper off. I'm scared to take the zip ties off in all honesty XD. The grill looks great, lots of plastic removal to do and this morning after a drive, one of the plastic retainers on the edge of the grill came loose, which ill take a look at when doing the seats (imma goo that shit together). Else, grill looks great. 
+
+Lastly, bumper still sags. I wanted to avoid putting the steel supporting brackets (because I was super exhausted and wanted to drive back to my moms after 2 weeks of working on the car) but now I really wanna get that looked at especially because of how easy of a job it'd be (I removed all plastic protecting the underside of the car (will be getting it rust sealed in a winters time (already got it treated not even a year ago))) 
+
+![IMG_2304.jpeg](/IMAGES/IMG_2304.jpeg)
+![IMG_2235.jpeg](/IMAGES/IMG_2235.jpeg)
