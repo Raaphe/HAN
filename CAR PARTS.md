@@ -22,6 +22,7 @@
 - [x] [Mesh grill](https://www.customcargrills.com/proddetail.asp?prod=Hyun_Velo_T_12) + [[Bumper Sag|Bumper]]
 - [x] After market specd headlights
 - [x] [Radiator](https://meganracing.com/mr-rt-hyv11t)
+- [ ] [anti roll](https://ultraracingshop.com/pages/product-result?rq=mk_hyundai__md_veloster__bg_1-6-turbo__yr_2015)
 - [ ] [Lightweight pulley kit](https://www.nonstoptuning.co/store/p60/2011-2017HyundaiVelosterPulleyKitNST31600K.html)
 - [ ] [845 MS Down pipe](https://www.845motorsports.com/shop/hyundai/velosters/veloster-turbo/845-motorsports-downpipe/)
 - [ ] [Catback Exhaust](https://ca.mbrp.com/collections/s47034cf-mbrp-cat-back-exhaust-for-2015-hyundai-veloster-turbo-1-6l-1)
